@@ -10,5 +10,3 @@ form_ui.py - Interface formulário de adicionar/alterar item perdido.
 form_item.py - Controla comportamento da form_ui.py e como vai reagir às ações do usuário.
 
 details_ui.py - Interface que abre quando o usuário clica no botão "Abrir" na coluna "Mais Detalhes" na interface principal.
-
-main.exe - Arquivo executável do sistema.
