@@ -1,5 +1,4 @@
-# SDAEP
-Sistema de Achados e Perdidos
+# Sistema de Achados e Perdidos
 
 main.py - Lida com a lógica principal e as UIs.
 
